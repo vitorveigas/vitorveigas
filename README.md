@@ -1,8 +1,11 @@
 
 
 # Perfil do Estudante de Engenharia de Software - PUC Minas
+<div>
+<img align="center" alt="Header" src="https://github.com/vitorveigas/vitorveigas/blob/main/Imagens%20Git%20Hub/github-header-image%20(5).png"/>
+</div>
 
-Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Engenharia de Software na PUC Minas, buscando constantemente aprender e contribuir para a comunidade de desenvolvimento. Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.
+
 
 ## Sobre Mim
 
