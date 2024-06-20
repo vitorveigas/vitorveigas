@@ -11,13 +11,12 @@
 
 - 👨‍🎓 **Graduação**: Engenharia de Software na PUC Minas.
 - 🌱 **Atividades Atuais**: Foco em aprimorar meus conhecimentos em desenvolvimento de software, design de sistemas e metodologias ágeis.
-- 💼 **Experiência Profissional**: [Detalhes sobre experiências anteriores ou projetos relevantes, se aplicável]
+
 
 ## Habilidades
 
 - **Linguagens de Programação:** C, JavaScript
-- **Desenvolvimento Web:** HTML, CSS, JavaScript, React
-- **Banco de Dados:** MySQL, MongoDB
+- **Desenvolvimento Web:** HTML, CSS, JavaScript, Bootstrap
 - **Metodologias:** Scrum, Kanban
 - **Ferramentas:** Git, VS Code, Eclipse
 - *[Adicione outras habilidades relevantes]*
