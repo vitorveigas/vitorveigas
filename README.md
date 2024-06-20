@@ -2,7 +2,7 @@
 
 # Vitor Veiga Silva
 <div>
-<img align="center" alt="Header" src="https://github.com/vitorveigas/vitorveigas/blob/main/Imagens%20Git%20Hub/github-header-image%20(5).png"/>
+<img align="center" alt="Header" src="https://github.com/vitorveigas/vitorveigas/blob/main/Imagens%20Git%20Hub/Header%20Vitor%20Veiga.png"/>
 </div>
 
 
