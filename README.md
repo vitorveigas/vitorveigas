@@ -19,14 +19,6 @@
 - **Desenvolvimento Web:** HTML, CSS, JavaScript, Bootstrap
 - **Metodologias:** Scrum, Kanban
 - **Ferramentas:** Git, VS Code, Eclipse
-- *[Adicione outras habilidades relevantes]*
 
-## Projetos Destacados
 
-### [Nome do Projeto]
 
-Breve descrição do projeto e suas tecnologias principais.
-
-### [Nome do Projeto]
-
-Breve descrição do projeto e suas tecnologias principais.
