@@ -15,7 +15,7 @@
 
 ## Habilidades
 
-- **Linguagens de Programação:** C, JavaScript
+- **Linguagens de Programação:** C, JavaScript, Java
 - **Desenvolvimento Web:** HTML, CSS, JavaScript, Bootstrap
 - **Metodologias:** Scrum, Kanban
 - **Ferramentas:** Git, VS Code, Eclipse
