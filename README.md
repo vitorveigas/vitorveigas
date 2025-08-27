@@ -105,7 +105,7 @@
 <table>
 <tr>
  <!-- <td align="center">:octocat: <a href="https://www.githubwrapped.io/joaopauloaramuni" target="_blank">GitHub Wrapped</a></td> -->
- <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@aramuni">WakaTime</a></td>
+ <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@vitorveigas">WakaTime</a></td>
 </tr> 
 <tr>
 <!-- <td><img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/joaopauloaramuni/repos?time_range=one_year&loc_metric=changed&theme=dark"/></td> -->
