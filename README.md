@@ -18,7 +18,7 @@
 </td>
 <td><a href="https://wa.me/5531997388713" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/caue_am/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/vitorveigas0610/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://www.linkedin.com/in/v%C3%ADtor-veiga-429b6236a/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
