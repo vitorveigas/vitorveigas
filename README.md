@@ -107,14 +107,7 @@
  <td align="center" colspan="3"></td>
 </tr>
 </table>
-<table>
-<tr>
- <td align="center"></td>
-</tr>
-<tr>
- <td align="center"></td>
-</tr> 
-</table>
+
 </div>
 </div>
 
